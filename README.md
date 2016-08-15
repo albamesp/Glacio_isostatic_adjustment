@@ -22,5 +22,9 @@ If running on windows, try using the polygonizer function as opposed to gdal_pol
 
 Also, this will only work if you have [gdal](http://www.gdal.org/) downloaded locally!
 
-![GIA models in Antarctica](Fig5.jpg?raw=true "GIA models for Antarctica")
-![How do GIA models in Antarctica actually perform - An assessment using GPS data](Fig3.jpg?raw=true "How do GIA models in Antarctica actually perform - An assessment using GPS data")
+# Results
+And here it is how do GIA models in Antarctica actually perform! This is an assessment made by comparing the modelled uplift rates with those obtained from GPS data.
+
+Not really going into details about what the statistics mean in this case, but if you are interested I encourage you to read my paper!
+
+![How do GIA models in Antarctica actually perform - An assessment using GPS data](Fig5.jpg?raw=true "How do GIA models in Antarctica actually perform - An assessment using GPS data")
