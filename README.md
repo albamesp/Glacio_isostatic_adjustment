@@ -22,5 +22,5 @@ If running on windows, try using the polygonizer function as opposed to gdal_pol
 
 Also, this will only work if you have [gdal](http://www.gdal.org/) downloaded locally!
 
-![GIA models in Antarctica](Fig2.jpg?raw=true "GIA models for Antarctica")
+![GIA models in Antarctica](Fig5.jpg?raw=true "GIA models for Antarctica")
 ![How do GIA models in Antarctica actually perform - An assessment using GPS data](Fig3.jpg?raw=true "How do GIA models in Antarctica actually perform - An assessment using GPS data")
