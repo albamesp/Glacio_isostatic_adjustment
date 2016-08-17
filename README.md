@@ -11,7 +11,7 @@ We also bring along a new solution for GIA as a result of our RATES project (htt
 
 
 # Code
-The routine takes in a raster dataset (GIA models are not provided in this repo), changes the values to make it binary (i.e. 1/0) and then out pops a shapefile which adopts the values of the input raster.
+The routine takes in a raster dataset (the so-called GIA models which unfortunately can not be provided in this repo), changes the values to make it binary (i.e. 1/0) and then out pops a shapefile which adopts the values of the input raster.
 
 The mask passed in is a transformed version of the GIMP DEM as modified following [Sasgen et al. 2013] http://www.the-cryosphere.net/7/1499/2013/tc-7-1499-2013.pdf. 
 The code framework will work for any mask, just change the path and the values which you need to alter to make it 1/0.
