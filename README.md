@@ -17,7 +17,7 @@ The mask passed in is a transformed version of the GIMP DEM as modified followin
 The code framework will work for any mask, just change the path and the values which you need to alter to make it 1/0.
 The code is taken largely from this post: [https://johnbaumgartner.wordpress.com/2012/07/26/getting-rasters-into-shape-from-r/](https://johnbaumgartner.wordpress.com/2012/07/26/getting-rasters-into-shape-from-r/)
 
-Then it loads the uplift rates from the GPS network and performs the statistical assesment.
+Then it loads the uplift rates from the GPS network and performs the statistical assessment.
 If running on windows, try using the polygonizer function as opposed to gdal_polygonizeR.
 
 Also, this will only work if you have [gdal](http://www.gdal.org/) downloaded locally!
