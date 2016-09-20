@@ -1,4 +1,4 @@
-# Create and compare GIA models over Antarctica; 
+# Create and compare GIA models over Antarctica
 :zap: **repo for the Antarctic GIA project, updated August 2016: watch this space  - a new publication to appear in [JGR:Solid Earth](http://onlinelibrary.wiley.com/doi/10.1002/2016JB013154/abstract) is now out!!** :zap:
 
 # What is GIA
