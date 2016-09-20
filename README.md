@@ -25,7 +25,7 @@ Also, this will only work if you have [gdal](http://www.gdal.org/) downloaded lo
 # Results
 And here it is how do GIA models in Antarctica actually perform! This is an assessment made by comparing the modelled uplift rates with those obtained from GPS data.
 
-Not really going into details about what the statistics WM (bias) and WRMS (standard error) mean and how they are calculated, but if you are interested I encourage you to read my paper.
+Not really going into details about what the statistics WM (bias) and WRMS (standard error) mean and how they are calculated, but if you are interested I encourage you to read my [paper](http://onlinelibrary.wiley.com/doi/10.1002/2016JB013154/abstract)
 
 Look at the results of our RATES GIA solution, we do very well! 
 
