@@ -1,5 +1,5 @@
 # Create and compare GIA models over Antarctica; 
-:zap: **repo for the Antarctic GIA project, updated August 2016: watch this space  - a new publication to appear in JGR:Solid Earth is coming up soon!** :zap:
+:zap: **repo for the Antarctic GIA project, updated August 2016: watch this space  - a new publication to appear in [JGR:Solid Earth](http://onlinelibrary.wiley.com/doi/10.1002/2016JB013154/abstract) is no out!!** :zap:
 
 # What is GIA
 For those who may not be familiar with the term (I wont blame you!), GIA stands for Glacio-Isostatic Adjustment. This is a response of the Earth's mantle to changes in the surface. 
