@@ -1,4 +1,4 @@
-# Create and compare GIA models over Antarctica
+# Assessing GIA models over Antarctica
 :zap: **This research has now been published in [JGR:Solid Earth](http://onlinelibrary.wiley.com/doi/10.1002/2016JB013154/abstract)!!** :zap:
 
 # What is GIA
