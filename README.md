@@ -10,7 +10,7 @@ There are a few attempts to either model or solve for GIA processes in Antarctic
 We also bring along a new solution for GIA as a result of our RATES project (https://sites.google.com/site/wwwratesantarcticanet/)
 
 # Results
-And here it is how do GIA models in Antarctica actually perform! This is an assessment made by comparing the modelled uplift rates with those obtained from GPS data.
+And here it is how do GIA models in Antarctica actually perform! This is an assessment made by comparing the modelled uplift rates with those obtained from GPS data. 
 
 Not really going into details about what the statistics WM (bias) and WRMS (standard error) mean and how they are calculated, but if you are interested I encourage you to read my [paper](http://onlinelibrary.wiley.com/doi/10.1002/2016JB013154/abstract)
 
