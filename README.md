@@ -2,7 +2,7 @@
 :zap: **This research has now been published in [JGR:Solid Earth](http://onlinelibrary.wiley.com/doi/10.1002/2016JB013154/abstract)!!** :zap:
 
 # What is GIA
-For those who may not be familiar with the term (I wont blame you!), GIA stands for Glacial-Isostatic Adjustment. This is a response of the Earth's mantle to changes in the surface. 
+For those who may not be familiar with the term (I wont blame you!), GIA stands for Glacial-Isostatic Adjustment. This is a response of the Earth's mantle to changes in the surface.  
 The Earth's mantle is a viscoelastic material which responds very slowly to changes in the surface. For instance, after the last glaciation (~20.000 years ago), the large ice-sheets lying over northern Europe and north America melted away, causing a "rebound" (or an uplift trend) of the solid Earth, which, in fact, is still going on!.
 We can still feel these changes nowadays, but GIA is a really difficult process to be measured, specially in Antarctica! 
 
