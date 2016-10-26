@@ -16,4 +16,4 @@ Not really going into details about what the statistics WM (bias) and WRMS (stan
 
 Look at the results of our RATES GIA solution, we do very well! 
 
-![How do GIA models in Antarctica actually perform - An assessment using GPS data](Fig5.jpg?raw=true "How do GIA models in Antarctica actually perform - An assessment using GPS data"
+![How do GIA models in Antarctica actually perform - An assessment using GPS data](Fig5.jpg?raw=true "How do GIA models in Antarctica actually perform - An assessment using GPS data")
